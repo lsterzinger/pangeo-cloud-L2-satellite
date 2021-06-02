@@ -2,6 +2,7 @@ xarray
 matplotlib
 dask
 dask[distributed]
+dask-distributed
 s3fs
 netCDF4
 h5netcdf
