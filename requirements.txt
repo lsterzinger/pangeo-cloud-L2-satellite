@@ -1,8 +1,8 @@
 xarray
 matplotlib
 dask
+dask[distributed]
 s3fs
 netCDF4
 h5netcdf
 scipy
-dask[distributed]
