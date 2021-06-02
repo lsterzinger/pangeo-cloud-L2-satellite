@@ -1,7 +1,6 @@
 xarray
 matplotlib
-dask
-dask[distributed]
+dask[complete]
 s3fs
 netCDF4
 h5netcdf
