@@ -1,0 +1,4 @@
+xarray
+matplotlib
+dask
+s3fs
