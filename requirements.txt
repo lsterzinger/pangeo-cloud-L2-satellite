@@ -1,7 +1,0 @@
-xarray
-matplotlib
-dask[complete]
-s3fs
-netCDF4
-h5netcdf
-scipy
