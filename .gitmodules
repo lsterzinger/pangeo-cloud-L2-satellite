@@ -1,0 +1,3 @@
+[submodule "fsspec-reference-maker/fsspec-reference-maker-tutorial"]
+	path = fsspec-reference-maker/fsspec-reference-maker-tutorial
+	url = git@github.com:lsterzinger/fsspec-reference-maker-tutorial.git
